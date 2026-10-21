@@ -236,6 +236,7 @@ Core projects maintained by the Lean FRO and the Lean community.
 
 - [leansqlite](https://github.com/leanprover/leansqlite) - SQLite bindings from the Lean FRO.
 - [leanpostgres](https://github.com/paulbutcher/leanpostgres) - libpq bindings with a connection pool, in the style of leansqlite ([leanmigrate](https://github.com/paulbutcher/leanmigrate) runs plain-SQL migrations).
+- [lean-pq](https://github.com/typednotes/lean-pq) - libpq bindings with a `pq!` query DSL: columns are checked against the schema at compile time, values always become parameters, and read, write and DDL permissions are tracked in types.
 - [pg-lean](https://github.com/pb64-lean/pg-lean) - PostgreSQL client with a pure Lean wire protocol, SCRAM, TLS, COPY and pipelining.
 - [lean-pgx](https://github.com/pb64-lean/lean-pgx) - Checked Lean types and query runners generated from PostgreSQL DDL and SQL.
 - [lean-linq](https://github.com/palladin/lean-linq) - Type-safe LINQ-style SQL query DSL that compiles to parameterized SQL.

@@ -436,6 +436,7 @@ Tactics and solver integrations that are useful when proving properties of progr
 - [DyLean](https://github.com/BobDyLean/dylean) - Symbolic analysis of cryptographic protocols.
 - [verified-3d-mesh-intersection](https://github.com/schildep/verified-3d-mesh-intersection) - Verified 3D constructive solid geometry.
 - [bitrep](https://github.com/KyleClouthier/bitrep) - Rust crate for bit-identical float reductions, with the merge algebra proved in Lean.
+- [ZENOS](https://github.com/zenos-org/zenos) - Desktop OS (Debian 13 + KDE Plasma) whose file-access and data-export decisions are Lean definitions with proofs; its services call a program built from the same definitions. Unaudited developer preview.
 
 **Blockchain & Zero Knowledge**
 - [EVMYulLean](https://github.com/NethermindEth/EVMYulLean) - Executable formal model of the EVM and Yul.

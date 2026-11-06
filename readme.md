@@ -480,6 +480,7 @@ Tactics and solver integrations that are useful when proving properties of progr
 - [lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp) - MCP server that gives agents diagnostics, goals, hovers and search through the Lean LSP.
 - [lean4-skills](https://github.com/cameronfreer/lean4-skills) - Claude Code skills and plugins for Lean work.
 - [Lean Beam](https://github.com/leanprover/lean-beam) - Extends the Lean LSP server for agent- and tool-driven workflows.
+- [LeanWarp](https://isagoge.in/leanwarp) - Hosted Lean 4 workspaces for formal verification, available through MCP, the CLI or Python.
 - [LeanTool](https://github.com/GasStationManager/LeanTool) - "Code interpreter" for Lean that LLMs can call.
 - [AXLE](https://axle.axiommath.ai) - Axiom's Lean engine for proof verification, manipulation and runtime tasks ([MCP](https://github.com/Vilin97/axle-mcp)).
 - [Archon Horizon](https://github.com/frenzymath/Archon-Horizon) - Workspace-first orchestration for long-running Codex or Claude Code sessions on Lean.

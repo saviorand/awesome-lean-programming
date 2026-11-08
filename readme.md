@@ -90,6 +90,7 @@ Core projects maintained by the Lean FRO and the Lean community.
 - [ProofWidgets4](https://github.com/leanprover-community/ProofWidgets4) - Build custom interactive UI widgets (React) for the infoview.
 - [bubble](https://github.com/kim-em/bubble) - Open Lean projects and PRs in sandboxed VS Code containers so untrusted code can't touch your machine.
 - [Paperproof](https://github.com/Paper-Proof/paperproof) - Infoview that shows proofs as pen-and-paper-style trees.
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/lean) - Security-focused Lean 4 dev container with elan, persisted toolchains and Mathlib cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/lean).
 
 ## Build, Packaging & CI
 

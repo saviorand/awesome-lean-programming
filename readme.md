@@ -416,6 +416,7 @@ Tactics and solver integrations that are useful when proving properties of progr
 - [ACL2Lean](https://github.com/OathTech/ACL2Lean) - Replay ACL2 proofs as kernel-checked Lean theorems.
 - [Talos](https://github.com/cajal-technologies/talos) - WebAssembly interpreter and weakest-precondition calculus for verifying WebAssembly modules.
 - [lean-mlir](https://github.com/opencompl/lean-mlir) - MLIR semantics and verified peephole rewrites.
+- [Belay](https://github.com/vihren-dev/belay) - Executable model of SQLite's semantics, to prove facts about schemas, migrations and queries; a check finds counterexample databases and replays them in the `sqlite3` shell.
 
 **Semantics & Specifications**
 - [Wasm.lean](https://github.com/argumentcomputer/Wasm.lean) - WebAssembly implementation.

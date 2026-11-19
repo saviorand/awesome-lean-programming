@@ -487,6 +487,7 @@ Tactics and solver integrations that are useful when proving properties of progr
 - [Lean skills](https://github.com/leanprover/skills) - Official agent skills for proofs, toolchain setup, bisection and more.
 - [LeanSlop](https://github.com/kiranandcode/leanslop) - Call LLMs from inside Lean code as black-box automation.
 - [Aristotle](https://aristotle.harmonic.fun/) - Harmonic's formal reasoning agent, available via web, CLI and API.
+- [TheoremOS](https://github.com/HuggingMath/TheoremOS) - Visual Lean 4 workspace where mathematicians can revise AI proof plans and inspect lemma dependencies, proof attempts, and verification records.
 
 **Programmatic Access to Lean**
 - [REPL](https://github.com/leanprover-community/repl) - JSON REPL that reports errors, sorries and proof states.

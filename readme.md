@@ -142,6 +142,7 @@ Core projects maintained by the Lean FRO and the Lean community.
 - [Lean Kernel Arena](https://arena.lean-lang.org/) - Test suite and leaderboard for independent Lean kernel implementations ([source](https://github.com/leanprover/lean-kernel-arena)).
 - [SafeVerify](https://github.com/GasStationManager/SafeVerify) - Robustly checks submitted proofs and implementations against a reference.
 - [axiom-audit](https://github.com/leanprover-community/axiom-audit) - Axiom allowlist check that fails CI on `sorry`, `native_decide` or custom axioms.
+- [proofaudit](https://github.com/Leizhidong-creator/proofaudit) - Agent math-code audit — check whether a formal proof is what it claims to be: axioms, gaps, redefinitions, name provenance, statement match, and the Lean kernel.
 
 ## Testing
 
